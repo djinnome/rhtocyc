@@ -17,6 +17,52 @@
 ;;; -----------------------------------------------------------
 
 ;;; Parsing results for annotation file:
+;;;        /Users/zuck016/ptools-local/pgdbs/user/rhtocyc/21.0.IFO0880_4/input/ABF_000042.gb
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/zuck016/ptools-local/pgdbs/user/rhtocyc/21.0.IFO0880_4/input/ABF_000042.gb
+gene-IDs :                         5
+gene-name :                        0
+gene-startbase :                   5
+gene-endbase :                     5
+gene-product-type :                5
+  gene-Proteins :                    5
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    4
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Genbank file contains these additional features,
+which have not been processed:
+(primer_bind promoter intron misc_feature rep_origin)
+The Genbank file contains these additional feature qualifiers,
+which have not been processed:
+(/organism= /mol_type= /translation= /direction= /codon_start=)
+
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
 ;;;        /Users/zuck016/ptools-local/pgdbs/user/rhtocyc/21.0.IFO0880_4/input/scaffold_1.pf
 
 ;;;
@@ -41,8 +87,8 @@ total EC numbers :               193
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     256
-  genes with a GO term linked to reactions :     217
+total GO terms linked to reactions :     261
+  genes with a GO term linked to reactions :     222
   genes with >1 GO terms linked to reactions :      25
 gene-products:
   hypothetical :                     0
@@ -77,8 +123,8 @@ total EC numbers :                61
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     104
-  genes with a GO term linked to reactions :      70
+total GO terms linked to reactions :     105
+  genes with a GO term linked to reactions :      71
   genes with >1 GO terms linked to reactions :      11
 gene-products:
   hypothetical :                     0
@@ -185,8 +231,8 @@ total EC numbers :                52
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      76
-  genes with a GO term linked to reactions :      60
+total GO terms linked to reactions :      78
+  genes with a GO term linked to reactions :      62
   genes with >1 GO terms linked to reactions :       9
 gene-products:
   hypothetical :                     0
@@ -293,8 +339,8 @@ total EC numbers :                31
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      62
-  genes with a GO term linked to reactions :      41
+total GO terms linked to reactions :      63
+  genes with a GO term linked to reactions :      42
   genes with >1 GO terms linked to reactions :       6
 gene-products:
   hypothetical :                     0
@@ -329,8 +375,8 @@ total EC numbers :                38
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      68
-  genes with a GO term linked to reactions :      45
+total GO terms linked to reactions :      69
+  genes with a GO term linked to reactions :      46
   genes with >1 GO terms linked to reactions :       9
 gene-products:
   hypothetical :                     0
@@ -365,8 +411,8 @@ total EC numbers :                30
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      39
-  genes with a GO term linked to reactions :      30
+total GO terms linked to reactions :      40
+  genes with a GO term linked to reactions :      31
   genes with >1 GO terms linked to reactions :       4
 gene-products:
   hypothetical :                     0
@@ -401,8 +447,8 @@ total EC numbers :               148
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     230
-  genes with a GO term linked to reactions :     179
+total GO terms linked to reactions :     233
+  genes with a GO term linked to reactions :     182
   genes with >1 GO terms linked to reactions :      29
 gene-products:
   hypothetical :                     0
@@ -545,8 +591,8 @@ total EC numbers :               150
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     229
-  genes with a GO term linked to reactions :     177
+total GO terms linked to reactions :     232
+  genes with a GO term linked to reactions :     180
   genes with >1 GO terms linked to reactions :      27
 gene-products:
   hypothetical :                     0
@@ -581,8 +627,8 @@ total EC numbers :                49
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      97
-  genes with a GO term linked to reactions :      63
+total GO terms linked to reactions :      98
+  genes with a GO term linked to reactions :      64
   genes with >1 GO terms linked to reactions :      14
 gene-products:
   hypothetical :                     0
@@ -617,8 +663,8 @@ total EC numbers :               129
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     250
-  genes with a GO term linked to reactions :     159
+total GO terms linked to reactions :     253
+  genes with a GO term linked to reactions :     162
   genes with >1 GO terms linked to reactions :      28
 gene-products:
   hypothetical :                     0
@@ -653,8 +699,8 @@ total EC numbers :               101
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     167
-  genes with a GO term linked to reactions :     129
+total GO terms linked to reactions :     168
+  genes with a GO term linked to reactions :     130
   genes with >1 GO terms linked to reactions :      22
 gene-products:
   hypothetical :                     0
@@ -689,8 +735,8 @@ total EC numbers :               110
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     165
-  genes with a GO term linked to reactions :     132
+total GO terms linked to reactions :     169
+  genes with a GO term linked to reactions :     136
   genes with >1 GO terms linked to reactions :      13
 gene-products:
   hypothetical :                     0
@@ -725,8 +771,8 @@ total EC numbers :                82
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     139
-  genes with a GO term linked to reactions :     105
+total GO terms linked to reactions :     140
+  genes with a GO term linked to reactions :     106
   genes with >1 GO terms linked to reactions :      16
 gene-products:
   hypothetical :                     0
@@ -797,8 +843,8 @@ total EC numbers :               193
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     256
-  genes with a GO term linked to reactions :     217
+total GO terms linked to reactions :     261
+  genes with a GO term linked to reactions :     222
   genes with >1 GO terms linked to reactions :      25
 gene-products:
   hypothetical :                     0
@@ -833,8 +879,8 @@ total EC numbers :               148
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     230
-  genes with a GO term linked to reactions :     179
+total GO terms linked to reactions :     233
+  genes with a GO term linked to reactions :     182
   genes with >1 GO terms linked to reactions :      29
 gene-products:
   hypothetical :                     0
@@ -869,8 +915,8 @@ total EC numbers :               150
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     229
-  genes with a GO term linked to reactions :     177
+total GO terms linked to reactions :     232
+  genes with a GO term linked to reactions :     180
   genes with >1 GO terms linked to reactions :      27
 gene-products:
   hypothetical :                     0
@@ -905,8 +951,8 @@ total EC numbers :               129
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     250
-  genes with a GO term linked to reactions :     159
+total GO terms linked to reactions :     253
+  genes with a GO term linked to reactions :     162
   genes with >1 GO terms linked to reactions :      28
 gene-products:
   hypothetical :                     0
@@ -941,8 +987,8 @@ total EC numbers :               101
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     167
-  genes with a GO term linked to reactions :     129
+total GO terms linked to reactions :     168
+  genes with a GO term linked to reactions :     130
   genes with >1 GO terms linked to reactions :      22
 gene-products:
   hypothetical :                     0
@@ -977,8 +1023,8 @@ total EC numbers :               110
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     165
-  genes with a GO term linked to reactions :     132
+total GO terms linked to reactions :     169
+  genes with a GO term linked to reactions :     136
   genes with >1 GO terms linked to reactions :      13
 gene-products:
   hypothetical :                     0
@@ -1013,8 +1059,8 @@ total EC numbers :                82
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     139
-  genes with a GO term linked to reactions :     105
+total GO terms linked to reactions :     140
+  genes with a GO term linked to reactions :     106
   genes with >1 GO terms linked to reactions :      16
 gene-products:
   hypothetical :                     0
@@ -1121,8 +1167,8 @@ total EC numbers :                61
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :     104
-  genes with a GO term linked to reactions :      70
+total GO terms linked to reactions :     105
+  genes with a GO term linked to reactions :      71
   genes with >1 GO terms linked to reactions :      11
 gene-products:
   hypothetical :                     0
@@ -1193,8 +1239,8 @@ total EC numbers :                52
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      76
-  genes with a GO term linked to reactions :      60
+total GO terms linked to reactions :      78
+  genes with a GO term linked to reactions :      62
   genes with >1 GO terms linked to reactions :       9
 gene-products:
   hypothetical :                     0
@@ -1301,8 +1347,8 @@ total EC numbers :                49
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      97
-  genes with a GO term linked to reactions :      63
+total GO terms linked to reactions :      98
+  genes with a GO term linked to reactions :      64
   genes with >1 GO terms linked to reactions :      14
 gene-products:
   hypothetical :                     0
@@ -1337,8 +1383,8 @@ total EC numbers :                38
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      68
-  genes with a GO term linked to reactions :      45
+total GO terms linked to reactions :      69
+  genes with a GO term linked to reactions :      46
   genes with >1 GO terms linked to reactions :       9
 gene-products:
   hypothetical :                     0
@@ -1373,8 +1419,8 @@ total EC numbers :                31
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      62
-  genes with a GO term linked to reactions :      41
+total GO terms linked to reactions :      63
+  genes with a GO term linked to reactions :      42
   genes with >1 GO terms linked to reactions :       6
 gene-products:
   hypothetical :                     0
@@ -1409,8 +1455,8 @@ total EC numbers :                30
 total supplied MetaCyc reaction ids :       0
   genes with a supplied MetaCyc reaction id :       0
   genes with >1 supplied MetaCyc reaction id :       0
-total GO terms linked to reactions :      39
-  genes with a GO term linked to reactions :      30
+total GO terms linked to reactions :      40
+  genes with a GO term linked to reactions :      31
   genes with >1 GO terms linked to reactions :       4
 gene-products:
   hypothetical :                     0
@@ -1525,3 +1571,49 @@ gene-products:
   predicted :                        0
   putative :                         0
 genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /Users/zuck016/ptools-local/pgdbs/user/rhtocyc/21.0.IFO0880_4/input/ABF_000042.gb
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/zuck016/ptools-local/pgdbs/user/rhtocyc/21.0.IFO0880_4/input/ABF_000042.gb
+gene-IDs :                         5
+gene-name :                        0
+gene-startbase :                   5
+gene-endbase :                     5
+gene-product-type :                5
+  gene-Proteins :                    5
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    4
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Genbank file contains these additional features,
+which have not been processed:
+(primer_bind promoter intron misc_feature rep_origin)
+The Genbank file contains these additional feature qualifiers,
+which have not been processed:
+(/organism= /mol_type= /translation= /direction= /codon_start=)
+
