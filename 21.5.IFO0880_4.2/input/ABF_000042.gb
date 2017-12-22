@@ -5,27 +5,27 @@ KEYWORDS    .
 FEATURES             Location/Qualifiers
      CDS             7103..7918
                      /label=aph(3')-Ia
-                     /product="aminoglycoside phosphotransferase"
                      /codon_start=1
+                     /product="aminoglycoside phosphotransferase"
                      /note="confers resistance to kanamycin in bacteria or G41"
-                     /gene="aph(3')-Ia"
                      /note="KanR"
+                     /gene="aph(3')-Ia"
      rep_origin      8013..8601
                      /label=ori
                      /direction=RIGHT
+                     /note="ori"
                      /note="high-copy-number ColE1/pMB1/pBR322/pUC origin
                      ofreplication"
-                     /note="ori"
      CDS             5391..5966
                      /label=Streptomyces noursei nat1
-                     /codon_start=1
-                     /gene="Streptomyces noursei nat1"
-                     /product="nourseothricin acetyltransferase"
-                     /note="confers resistance to nourseothricin"
                      /translation="MAAATLDDTAYRYRTSVPGDAEAIEALDGSFTTDTVFRVTATGD
                      GFTLREVPVDPPLTKVFPDDESDDESDDGEDGDPDSRTFVAYGDDGDLAGFVVVSYSG
                      WNRRLTVEDIEVAPEHRGHGVGRALMGLATEFARERGAGHLWLEVTNVNAPAIHTYRR
                      MGFTLCGLDTALYDGTASDGEQALYMSMPCP"
+                     /codon_start=1
+                     /product="nourseothricin acetyltransferase"
+                     /note="confers resistance to nourseothricin"
+                     /gene="Streptomyces noursei nat1"
                      /note="NAT-pGI2_genscript"
      CDS             1847..4324
                      /label=Rt_BIS_AG_HIS6
@@ -65,8 +65,8 @@ FEATURES             Location/Qualifiers
                      /note="basis of mobility region from pBR322"
      rep_origin      9271..9465
                      /label=pVS1 oriV
-                     /note="pVS1 oriV"
                      /note="origin of replication for the Pseudomonas plasmi"
+                     /note="pVS1 oriV"
      promoter        418..1846
                      /label=GAPDH_promoter
                      /note="GAPDH_promoter"
@@ -88,8 +88,8 @@ FEATURES             Location/Qualifiers
                      /organism="synthetic DNA construct"
      CDS             complement(9531..10604)
                      /label=CDS
-                     /product="replication protein from the Pseudomonas plasmi"
                      /codon_start=1
+                     /product="replication protein from the Pseudomonas plasmi"
      misc_feature    115..139
                      /label=RB T-DNA repeat
                      /note="RB T-DNA repeat"
@@ -99,8 +99,8 @@ FEATURES             Location/Qualifiers
                      /note="stuffer"
      CDS             complement(11033..11662)
                      /label=CDS
-                     /codon_start=1
                      /product="stability protein from the Pseudomonas plasmi"
+                     /codon_start=1
      misc_feature    5967..6474
                      /label=TUB2 terminator (508bp)
                      /note="TUB2 terminator (508bp)"
