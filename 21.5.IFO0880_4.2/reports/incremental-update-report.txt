@@ -1,0 +1,12 @@
+
+;;; ---  PGDB Incremental Update ---
+;;; ---  Parse Results for Rhodotorula toruloides  ---
+;;;
+;;; This report summarizes the findings of the PathoLogic parser for
+;;; the annotation files for all updated genetic elements.  Through
+;;; inspection of this report, the user can tell whether features of major 
+;;; importance were not recognized, possibly due to syntax errors or other
+;;; problems in the updated annotation files. If you want to change 
+;;; annotation file(s) to improve their parsability, update the files 
+;;  then re-run the Update.
+

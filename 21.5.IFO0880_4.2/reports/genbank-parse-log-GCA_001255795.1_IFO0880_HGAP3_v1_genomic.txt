@@ -1,0 +1,117 @@
+;;;      ---  GenBank File Parse Results for Rhodotorula toruloides  ---
+;;;      ---  File: /usr/local/ptools-local/pgdbs/user/rhtocyc/20.5/input/GCA_001255795.1_IFO0880_HGAP3_v1_genomic.gbff
+;;;
+;;; This report lists warnings and possible problems that were encountered
+;;; by the GenBank parser used in PathoLogic.
+;;;
+;;; One type of potential problem reported is where a 'gene' feature
+;;; was present, without being followed by an additional feature (such as 'CDS')
+;;; that would have provided additional information about the gene product.
+;;; Potentially, these are erroneous omissions in the Genbank file,
+;;; because it is unclear what the product type should be.
+;;; However, solitary gene features commonly occur among pseudo-genes.
+;;;
+;;;
+;;; If you want to change GenBank annotation file(s) to improve their parsability, 
+;;; update the files, reinitialize the KB, and re-run the Build.  If you want
+;;; to avoid having to reinitialize in the future, use the Trial Parse 
+;;; command until you are satisfied with the parse results, and only then
+;;; Build.
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000001 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000002 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000003 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000004 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000005 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000006 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000007 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000008 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000009 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000010 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000011 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000012 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000013 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000014 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000015 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000016 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000017 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000018 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000019 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000020 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000021 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000022 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000023 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000024 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000025 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000026 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000027 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000028 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000029 ::::::::
+
+
+;;;; :::::::: Parsing the genetic element CWKI01000030 ::::::::
+
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Genbank file contains these additional feature qualifiers,
+which have not been processed:
+(/mating_type= /culture_collection= /isolate= /mol_type= /organism=)
+
