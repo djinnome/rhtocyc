@@ -1,0 +1,822 @@
+Accepted   G1DOZ-20223-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-21561-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1DOZ-20215-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20215-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-17133-MONOMER    cholesterol              UNKNOWN   
+           predicted mitochondrial cholesterol transporter
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1DOZ-21490-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1DOZ-21490-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-21490-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1DOZ-20145-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-21483-MONOMER    Fe3+                     UNKNOWN   
+           iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1DOZ-17174-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-17203-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1DOZ-17214-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1DOZ-17232-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1DOZ-19983-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-19975-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1DOZ-19966-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-19961-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-19883-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-19874-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1DOZ-19874-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-19874-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1DOZ-19873-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1DOZ-19873-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-19873-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1DOZ-19825-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-19723-MONOMER    a nucleoside             UNKNOWN   
+           nucleoside transporter
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-19628-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-25210-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-25209-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-25197-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1DOZ-24007-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1DOZ-23882-MONOMER    a nucleotide             UNKNOWN   
+           predicted rho/rac guanine nucleotide exchange factor/faciogenital dysplasia protein 3
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-23882-MONOMER    guanine                  UNKNOWN   
+           predicted rho/rac guanine nucleotide exchange factor/faciogenital dysplasia protein 3
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-23862-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-23862-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-23844-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1DOZ-23844-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1DOZ-23772-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1DOZ-23757-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1DOZ-23754-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1DOZ-22534-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-22515-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1DOZ-22454-MONOMER    a glycan                 UNKNOWN   
+           lectin vip36, involved in the transport of glycoproteins carrying high mannose-type glycans
+           a glycan[periplasm]  ->  a glycan[cytosol]
+Accepted   G1DOZ-22436-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1DOZ-22436-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-22436-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1DOZ-18629-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-18629-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1DOZ-18614-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1DOZ-22310-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1DOZ-25455-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[periplasm]  ->  a sugar[cytosol]
+Accepted   G1DOZ-22289-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-22289-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-25439-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-18582-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-18567-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1DOZ-25343-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1DOZ-22184-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-22165-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-18556-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1DOZ-18560-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[periplasm]  ->  a nucleotide sugar[cytosol]
+Accepted   G1DOZ-18451-MONOMER    an inorganic anion       UNKNOWN   
+           inorganic anion transmembrane transporter activity//inorganic anion transport//integral to membrane
+           an inorganic anion[periplasm]  ->  an inorganic anion[cytosol]
+Accepted   G1DOZ-22104-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-22103-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-18387-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1DOZ-18382-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1DOZ-18285-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-20828-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-20766-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20766-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-20760-MONOMER    an inorganic anion       UNKNOWN   
+           inorganic anion transmembrane transporter activity//inorganic anion transport//integral to membrane
+           an inorganic anion[periplasm]  ->  an inorganic anion[cytosol]
+Accepted   G1DOZ-18203-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-24366-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1DOZ-18183-MONOMER    Zn2+                     UNKNOWN   
+           zip-like zinc transporter proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1DOZ-24339-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-24339-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-20713-MONOMER    a nucleotide             UNKNOWN   
+           predicted guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20713-MONOMER    guanine                  UNKNOWN   
+           predicted guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-20711-MONOMER    cystine                  UNKNOWN   
+           cystine transporter cystinosin
+           cystine[periplasm]  <-  cystine[cytosol]
+Accepted   G1DOZ-20698-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1DOZ-24317-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-24313-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-20689-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1DOZ-20653-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20653-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-24251-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-20636-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-20631-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20631-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-24236-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-24203-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-20590-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1DOZ-18048-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1DOZ-20578-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1DOZ-18112-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-20312-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-20312-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-22955-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-22896-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1DOZ-22845-MONOMER    a cation                 UNKNOWN   
+           cation transmembrane transporter activity//cation transport//membrane
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1DOZ-22813-MONOMER    a metal cation           UNKNOWN   
+           integral to membrane//metal ion binding//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1DOZ-22810-MONOMER    a bile acid              SECONDARY 
+           bile acid:sodium symporter activity//integral to membrane//membrane//sodium ion transport
+           a bile acid[periplasm] + H+[periplasm]  ->  a bile acid[cytosol] + H+[cytosol]
+Accepted   G1DOZ-22765-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-22764-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-22755-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1DOZ-22672-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-22670-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-22614-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-24642-MONOMER    phosphate                UNKNOWN   
+           protein involved in inorganic phosphate transport
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-24603-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-24584-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-24582-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-24572-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-24412-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-19488-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-19478-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-19478-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-19430-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-21307-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1DOZ-21261-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-21259-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1DOZ-19396-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-21248-MONOMER    a cation                 UNKNOWN   
+           predicted divalent cation transporter
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1DOZ-21215-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1DOZ-17911-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-17909-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1DOZ-21096-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1DOZ-20971-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1DOZ-23311-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-20923-MONOMER    fucose                   UNKNOWN   
+           gdp-fucose transporter
+           fucose[periplasm]  ->  fucose[cytosol]
+Accepted   G1DOZ-20923-MONOMER    GDP                      UNKNOWN   
+           gdp-fucose transporter
+           GDP[periplasm]  ->  GDP[cytosol]
+Accepted   G1DOZ-23256-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-23255-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-20895-MONOMER    a cation                 ATP       
+           atpase activity, coupled to transmembrane movement of ions, phosphorylative mechanism//cation transport//membrane
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1DOZ-23166-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-18961-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1DOZ-24892-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-18933-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1DOZ-18916-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-18909-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-18884-MONOMER    Cu2+                     UNKNOWN   
+           copper ion transmembrane transporter activity//copper ion transport//integral to membrane
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1DOZ-23019-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-23017-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-23014-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-24791-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1DOZ-24789-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-18832-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1DOZ-18788-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-18765-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-18750-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-19185-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-17753-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[periplasm]  ->  a sugar[cytosol]
+Accepted   G1DOZ-17812-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-17812-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-17837-MONOMER    an amino acid            UNKNOWN   
+           amino acid transmembrane transporter activity//amino acid transport//membrane
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-17868-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-17876-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-17584-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-17388-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-17368-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1DOZ-23747-MONOMER    a glycan                 UNKNOWN   
+           lectin vip36, involved in the transport of glycoproteins carrying high mannose-type glycans
+           a glycan[periplasm]  ->  a glycan[cytosol]
+Accepted   G1DOZ-22015-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-22012-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-23715-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1DOZ-21956-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1DOZ-21956-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1DOZ-21956-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1DOZ-23674-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1DOZ-25067-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-25065-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1DOZ-25049-MONOMER    a cation                 UNKNOWN   
+           predicted cation transporter
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1DOZ-21941-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-23636-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-23636-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-23631-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1DOZ-25020-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1DOZ-25020-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[periplasm] + Na+[cytosol]  ->  K+[cytosol] + Na+[periplasm]
+Accepted   G1DOZ-25014-MONOMER    a nucleotide             UNKNOWN   
+           mitochondrial translation elongation factor ef-tsmt, catalyzes nucleotide exchange on ef-tumt
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-25004-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-23524-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1DOZ-21825-MONOMER    a nucleotide             UNKNOWN   
+           rho guanine nucleotide exchange factor vav3
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1DOZ-21825-MONOMER    guanine                  UNKNOWN   
+           rho guanine nucleotide exchange factor vav3
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1DOZ-21785-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1DOZ-23458-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-21745-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1DOZ-21891-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1DOZ-21696-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1DOZ-21661-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1DOZ-17069-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1DOZ-17070-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1DOZ-17087-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Unreviewed G1DOZ-23784-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1DOZ-18604-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1DOZ-20801-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1DOZ-20698-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-24127-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-22803-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1DOZ-21409-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-21206-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1DOZ-21072-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-23184-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1DOZ-18832-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-21999-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1DOZ-25127-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1DOZ-21688-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1DOZ-21688-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1DOZ-21682-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1DOZ-21682-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1DOZ-21614-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+
+
+Unreviewed G1DOZ-17047-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17084-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17101-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17138-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17156-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17165-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17181-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17218-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17230-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17234-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17280-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17342-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17407-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17413-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17438-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17576-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17714-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17724-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17734-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17759-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17761-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17777-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17784-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17794-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17858-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17899-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17913-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17937-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17939-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17948-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-17971-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18000-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18005-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18081-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18234-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18236-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18259-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18269-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18340-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18343-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18368-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18403-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18404-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18477-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18506-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18536-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18658-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18662-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18705-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18747-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18812-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18925-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18980-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18983-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-18995-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19003-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19049-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19057-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19135-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19148-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19214-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19245-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19252-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19255-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19316-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19380-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19443-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19492-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19522-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19546-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19572-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19579-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19584-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19591-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19678-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19704-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19709-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19927-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19965-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-19969-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20044-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20080-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20097-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20291-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20297-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20482-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20526-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20528-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20694-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-20944-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21013-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21022-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21036-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21051-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21113-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21298-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21334-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21335-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21516-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21551-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21556-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21597-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21607-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21664-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21666-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21751-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21884-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21915-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21927-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21939-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-21948-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22163-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22182-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22208-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22322-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22552-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22608-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22631-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22673-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22685-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22736-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22834-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22841-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22857-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22878-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22891-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22926-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-22931-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23079-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23102-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23165-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23179-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23229-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23246-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23283-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23333-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23357-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23418-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23499-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23540-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23563-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23622-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23632-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23641-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23643-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23670-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23677-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23678-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23767-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23774-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23801-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23835-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23863-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-23939-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24019-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24070-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24119-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24179-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24214-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24249-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24318-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24332-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24336-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24390-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24416-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24422-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24516-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24564-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24595-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24709-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24715-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24767-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24881-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24885-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24914-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24938-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24949-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-24968-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25028-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25030-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25032-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25048-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25101-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25163-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25167-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25293-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25301-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25304-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25374-MONOMER  (no substrate identified)
+Unreviewed G1DOZ-25461-MONOMER  (no substrate identified)
