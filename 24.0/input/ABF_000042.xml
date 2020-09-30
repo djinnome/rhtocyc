@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sbol="http://sbols.org/v2#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ice="http://ice.jbei.org#" xmlns:prov="http://www.w3.org/ns/prov#">
+  <sbol:ComponentDefinition rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/1">
+    <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042"/>
+    <sbol:displayId>ABF_000042</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>BIS_opt-AG-HIS6</dcterms:title>
+    <dcterms:description>Construct already built. HIS tagged A. grandis bisaboline synthase codon optimized for Rhodosporidium</dcterms:description>
+    <ice:id>42.0</ice:id>
+    <ice:recordId>daff8653-9c9b-4e9b-ad03-ad9dc52b1f76</ice:recordId>
+    <ice:versionId>daff8653-9c9b-4e9b-ad03-ad9dc52b1f76</ice:versionId>
+    <ice:recordType>plasmid</ice:recordType>
+    <ice:owner>John Gladden</ice:owner>
+    <ice:ownerEmail>jmgladden@lbl.gov</ice:ownerEmail>
+    <ice:creator>John Gladden</ice:creator>
+    <ice:creatorEmail>jmgladden@lbl.gov</ice:creatorEmail>
+    <ice:status>Complete</ice:status>
+    <ice:alias>pGEN-316</ice:alias>
+    <ice:selectionMarker>NAT</ice:selectionMarker>
+    <ice:selectionMarker>Kan</ice:selectionMarker>
+    <ice:shortDescription>Construct already built. HIS tagged A. grandis bisaboline synthase codon optimized for Rhodosporidium</ice:shortDescription>
+    <ice:longDescriptionType>text</ice:longDescriptionType>
+    <ice:creationTime>2017-03-01 15:21:58.512</ice:creationTime>
+    <ice:modificationTime>2017-03-15 18:33:13.472</ice:modificationTime>
+    <ice:bioSafetyLevel>1</ice:bioSafetyLevel>
+    <ice:visibility>9</ice:visibility>
+    <ice:principalInvestigator>John Gladden</ice:principalInvestigator>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation21/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation21"/>
+        <sbol:displayId>annotation21</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>bom</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation21/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation21/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>8787</sbol:start>
+            <sbol:end>8927</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation18/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation18"/>
+        <sbol:displayId>annotation18</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>LB T-DNA repeat</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation18/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation18/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>6786</sbol:start>
+            <sbol:end>6810</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation6/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation6"/>
+        <sbol:displayId>annotation6</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>RB T-DNA repeat</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation6/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation6/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>115</sbol:start>
+            <sbol:end>139</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation20/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation20"/>
+        <sbol:displayId>annotation20</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>ori</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000296"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation20/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation20/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>8013</sbol:start>
+            <sbol:end>8601</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation16/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation16"/>
+        <sbol:displayId>annotation16</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>TUB2 terminator (508bp)</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation16/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation16/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>5967</sbol:start>
+            <sbol:end>6474</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation9/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation9"/>
+        <sbol:displayId>annotation9</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>stuffer</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation9/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation9/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>402</sbol:start>
+            <sbol:end>417</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation7/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation7"/>
+        <sbol:displayId>annotation7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>extra-seq-Jeff-1</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation7/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation7/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>262</sbol:start>
+            <sbol:end>417</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation14/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation14"/>
+        <sbol:displayId>annotation14</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>intron1</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000188"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation14/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation14/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>5320</sbol:start>
+            <sbol:end>5385</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation13/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation13"/>
+        <sbol:displayId>annotation13</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>TUB2 promoter</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation13/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation13/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>4601</sbol:start>
+            <sbol:end>5390</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation12/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation12"/>
+        <sbol:displayId>annotation12</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>NOS</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000001"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation12/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation12/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>4325</sbol:start>
+            <sbol:end>4577</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation19/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation19"/>
+        <sbol:displayId>annotation19</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>aph(3')-Ia</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000316"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation19/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation19/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>7103</sbol:start>
+            <sbol:end>7918</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation11/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation11"/>
+        <sbol:displayId>annotation11</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>Rt_BIS_AG_HIS6</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000316"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation11/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation11/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>1847</sbol:start>
+            <sbol:end>4324</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation17/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation17"/>
+        <sbol:displayId>annotation17</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>lac promoter</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000167"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation17/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation17/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>6543</sbol:start>
+            <sbol:end>6573</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation24/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation24"/>
+        <sbol:displayId>annotation24</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>CDS</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000316"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation24/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation24/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>11033</sbol:start>
+            <sbol:end>11662</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation5/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation5"/>
+        <sbol:displayId>annotation5</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>synthetic DNA construct</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000149"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation5/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation5/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>1</sbol:start>
+            <sbol:end>12878</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation22/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation22"/>
+        <sbol:displayId>annotation22</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>pVS1 oriV</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000296"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation22/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation22/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>9271</sbol:start>
+            <sbol:end>9465</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation10/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation10"/>
+        <sbol:displayId>annotation10</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>GAPDH_promoter</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000167"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation10/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation10/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>418</sbol:start>
+            <sbol:end>1846</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation23/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation23"/>
+        <sbol:displayId>annotation23</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>CDS</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000316"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation23/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation23/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>9531</sbol:start>
+            <sbol:end>10604</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation8/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation8"/>
+        <sbol:displayId>annotation8</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>M13 fwd</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0005850"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation8/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation8/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>335</sbol:start>
+            <sbol:end>351</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation15/1">
+        <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation15"/>
+        <sbol:displayId>annotation15</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>Streptomyces noursei nat1</dcterms:title>
+        <sbol:role rdf:resource="http://purl.obolibrary.org/obo/SO_0000316"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation15/location/1">
+            <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/ABF_000042/annotation15/location"/>
+            <sbol:displayId>location</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>5391</sbol:start>
+            <sbol:end>5966</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequence rdf:resource="http://registry.agilebiofoundry.org/entry/sequence_49bca0399e0ea92d5dfb43a688bd5e32bb37830f/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:Sequence rdf:about="http://registry.agilebiofoundry.org/entry/sequence_49bca0399e0ea92d5dfb43a688bd5e32bb37830f/1">
+    <sbol:persistentIdentity rdf:resource="http://registry.agilebiofoundry.org/entry/sequence_49bca0399e0ea92d5dfb43a688bd5e32bb37830f"/>
+    <sbol:displayId>sequence_49bca0399e0ea92d5dfb43a688bd5e32bb37830f</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>ttgatcccgaggggaaccctgtggttggcatgcacatacaaatggacgaacggataaaccttttcacgcccttttaaatatccgattattctaataaacgctcttttctcttaggtttacccgccaatatatcctgtcaaacactgatagtttaaactgaaggcgggaaacgacaatctgatccaagctcaagctcattcgccattcaggctgcgcaactgttgggaagggcgatcggtgcgggcctcttcgctattacgccagctggcgaaagggggatgtgctgcaaggcgattaagttgggtaacgccagggttttcccagtcacgacgttgtaaaacgacggccagtgccaagcttggcgcgcctaggcctctgcaggtcgactctagaggatccccgggtaccgagctcgatctgcagaactacgccctctcacacccaacttccgactcgaccggcggtacgagcacgacctacttctactgcctgccatcgacatccgggcgggtcgctgcctaccctgtgcgttctgcgccctccctcgtctcgggaggcagtgtctgacagaagctttgcgcgcagtaccccgtcaagatgcaactctacgcaacgttcggcacagaagtcgccaagctccgcgcatcgccgcctcaagctctcgcgctgcccgacggtgtcgtctattacgaggcggagaagctcgagttgccggctttgccagcggcggtcaaggttgaggtggagacggagaaggcgggagtagcgggggaggacaatgaggcgaagggtgagatggtgctggtggagactcttacggtggagcaggaggagattgaattgggctcgggagtcgtgcagattgaggagtcgttgctcgtcaagctggaggtcagcggctgatccttccgttcgttgcaaggatcgtctgcatgtttcgcttctctcaatgacacaacctggagagcgctcccgtcagcgagaatcgaggacattccgcagctcgtgagcaagcggaggtgcgaggctccctcgaaagctgcgcctcttcagacggcttgttctctcctgctctggtgggctggcctgacatgtaatgtgctccgccgcaagtccgtcgtcggtctcaattcgacgttgaaagggcatagcgcaaggaagaaccctctgcggacatgcagaattactggctcgcctgctccttcgtctactggaataagtcctgtctcgttaaagccccaacgtcgtttttcgacgtttgtaaggcgcaagaggtgctatgggctacgcaggaagctgagaggacatagaagtcgggggaggaacggcgcagagcggcagttgcggaagcatgaggaaagcgagacggtccagcatctgcagcgccaatccgcaatctcctggttgagcctgcaccggaagcgtcggaacagtatgcgcagagtcgaacgcaagtaagaaagacgcaccctcacactcgcttacttcgagccatacaacggatcaaagctgcgcgtatctcggcttgtaagggccggaaagcaacctcggagatggacacgtcacatcaccaacttatcgatctcggccgtcgacgtcgcagagagggcgagagaagcggtgaaggagggaaacaacccctcgagagcatgatccgaccgaatctgcagcgcaggaagccgttacaagcccgcctcgagcgcaggtcgggtccagccgggggacgaaacgcgcgaggctgattcgtgagcgaaggaagccgcatcgacaagttcgctcccctttgccctctttcccatcacccgttctcgccttacccgctcagaacaacaccagatcactcacaatggccggcgtctcggccgtctccaaggtctcgtccctcgtctgcgacctctcgtcgacctcgggcctcatccgccgaacggccaacccccaccctaacgtctggggctacgacctcgtccactcgctcaagtccccgtacatcgactcgtcgtaccgcgagcgcgcggaggtcctcgtctcggagatcaaggcgatgctcaacccggccatcaccggcgacggcgagtcgatgatcacgccttccgcgtacgacacggcctgggtcgcccgcgtccccgcgatcgacggctcggcccgcccgcagttcccccagacggtcgactggatcctcaagaaccagctcaaggacggctcgtggggcatccagtcccacttcctcctctcggaccgcctcctcgccaccctctcgtgcgtcctcgtcctcctcaagtggaacgtcggcgacctccaggtcgagcagggcatcgagttcatcaagtccaacctcgagctcgtcaaggacgagacggaccaggactcgctcgtcaccgacttcgagatcatcttcccgtcgctcctccgcgaggcccagtcgctccgcctcggcctcccttacgacctcccgtacatccacctcctccagaccaagcgccaggagcgcctcgccaagctctcgcgcgaggagatctacgcggtcccttccccgctcctctactcgctcgagggcatccaggacatcgtcgagtgggagcgcatcatggaggtccagtcgcaggacggctccttcctctcgtcgcccgcctcgaccgcctgcgtcttcatgcacaccggcgacgccaagtgcctcgagttcctcaactcggtcatgatcaagttcggcaacttcgtcccctgcctctaccctgtcgacctcctcgagcgcctcctcatcgtcgacaacatcgtccgcctcggcatctaccgccacttcgagaaggagatcaaggaagcgctcgactacgtctaccgccactggaacgagcgcggcatcggctggggccgcctcaacccgatcgcggacctcgagaccacggccctcggcttccgcctcctccgcctccaccgctacaacgtctcgcctgccatcttcgacaacttcaaggacgcgaacggcaagttcatctgctcgacgggccagttcaacaaggacgtcgcgtccatgctcaacctctaccgcgcctcgcagctcgccttcccgggcgagaacatcctcgacgaggcgaagtccttcgccacgaagtacctccgcgaggccctcgagaagtcggagacctcgtccgcgtggaacaacaagcagaacctctcccaggagatcaagtacgcgctcaagacgtcgtggcacgcctcggtccctcgcgtcgaggcgaagcgctactgccaggtctaccgccctgactacgcgcgcatcgccaagtgcgtctacaagctcccgtacgtcaacaacgagaagttcctcgagctcggcaagctcgacttcaacatcatccagtcgatccaccaagaggagatgaagaacgtcacctcgtggttccgcgactcgggcctccccctcttcaccttcgcccgcgagcgccccctcgagttctacttcctcgtcgccgcgggcacctacgagcctcagtacgccaagtgccgcttcctcttcacgaaggtcgcgtgcctccagaccgtcctcgacgacatgtacgacacgtacggcaccctcgacgagctcaagctcttcacggaggcggtccgccgctgggacctctcgttcaccgagaacctccctgactacatgaagctctgctaccagatctactacgacatcgtccacgaggtcgcctgggaggcggagaaggagcagggccgcgagctcgtctcgttcttccgcaagggctgggaggactacctcctcggctactacgaggaagcggagtggctcgccgcggagtacgtccctaccctcgacgagtacatcaagaacggcatcacctccatcggccagcgcatcctcctcctctcgggcgtcctcatcatggacggccagctcctctcgcaagaggcgctcgagaaggtcgactaccccggccgccgagtcctcacggagctcaactccctcatctcccgcctcgccgacgacacgaagacgtacaaggccgagaaggcccgcggcgagctcgcctcgtccatcgagtgctacatgaaggaccaccccgagtgcacggaggaagaggcgctcgaccacatctactcgatcctcgagcctgcggtcaaggagctcacccgcgagttcctcaagccggacgacgtccccttcgcgtgcaagaagatgctcttcgaggagacgcgcgtcaccatggtcatcttcaaggacggcgacggcttcggcgtctcgaagctcgaggtcaaggaccacatcaaggagtgcctcatcgagcccctccctctcgcggggcaccaccatcatcatcattgagatcgttcaaacatttggcaataaagtttcttaagattgaatcctgttgccggtcttgcgatgattatcatataatttctgttgaattacgttaagcatgtaataattaacatgtaatgcatgacgttatttatgagatgggtttttatgattagagtcccgcaattatacatttaatacgcgatagaaaacaaaatatagcgcgcaaactaggataaattatcgcgcgcggtgtcatctatgttactagatcatcttaattaagaattcgcccttgcgacgacgtgtggggctaccgctcgctcgagccgacgcggtgctgcatcgcgtcgatcgcgctcgtcctcctcaagacgggcatcgtgcacccgccgatcggcggcagcgcgtcggcgccggcgagcccgacggcgcccgaggacggcttggcgtcggcgcagggcgacgacggcggggcgggcggcgtccaggtcaacactcagcagctcgcgacggcgcagaagctgcttctcttctggcgcaagcctgcggtgcgtccctctcgttcctctcgggtccctgtgtcgagcgcagtgactgactgtggctgtcgcacgggccctgcagcgcaaggtgtggtgggaccacagcaccgagacgctcgcgaacggcaaggaggtcaagatctgggcgcggcgagtgtggacgctcgagctgagcctgatctgagccgtcgtcgtcgtcgtcgttgtcgaggtgcaggcggcgtgcagattccccggtcgcgatacccccccttttccctcgctcgtcttgtttccgtagcttggtccggctctcttcttgtacatacccgtcgtatccagcagttcgagtgcgtccagcgagagcgagagagagacggtcgacacgcgccgccggtgtcgaggttctcgacttggccgcgacgagagcgaggcgctcctcctcccccctcgccccatcttccacctcgcccccctccctctagtcttcttgtgagtactcgaggctgctctacgccaagctagaccccgactgacccgtccacccactcccgcaagccacgatggcggccgccactcttgacgacacggcttaccggtaccgcaccagtgtcccgggggacgccgaggccatcgaggcactggatgggtccttcaccaccgacaccgtcttccgcgtcaccgccaccggggacggcttcaccctgcgggaggtgccggtggacccgcccctgaccaaggtgttccccgacgacgaatcggacgacgaatcggacgacggggaggacggcgacccggactcccggacgttcgtcgcgtacggggacgacggcgacctggcgggcttcgtggtcgtctcgtactccggctggaaccgccggctgaccgtcgaggacatcgaggtcgccccggagcaccgggggcacggggtcgggcgcgcgttgatggggctcgcgacggagttcgcccgcgagcggggcgccgggcacctctggctggaggtcaccaacgttaacgcaccggctatccacacgtaccggcggatggggttcaccctctgcggcctggacaccgccctgtacgacggcaccgcctcggacggcgagcaggcgctctacatgagcatgccctgcccctaagcttattcacctgcactcgtccaacctcgtcgtcgtcgtgtccccctccccgtccgtttgcccctccgtcttttgtcgtcgcccgcccgcccggccccctcgagcggttgcggcccttaccccccacccacactacttctgtcgttctttcgtcacgttctccgtcggctctacccccctgccaagtcaaaggctggtttctctcgtcggctcgggcgcgcgcgagatgggctcgagagtgagaacgagaggagcagcaggccgagttggctcggcggtctgggctcaggactggcgtcgcagcatgggcgtcgcacgttgagaccgtctggacgtgagaggcccggctactcgttgacgacgaggtcagagcgaccttgccgcctcgcagtcggctctacttttccgcggtctctcgtcggcctcacccaggcgcggtgtggcactgcctttctcgcgtctctcgcgagagcgcgcctctcgtcgaaagccaacctcgctcgcgagaaagggcgaattcgtaatcatgtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacgcgcggggagaggcggtttgcgtattggctagagcaattcggcgttaattcagtacattaaaaacgtccgcaatgtgttattaagttgtctaagcgtcaatttgtttacaccacaatatatcctgccaccagccagccaacagctccccgaccggcagctcggcacaaaatcaccactcgatacaggcagcccatcagtccgggacggcgtcagcgggagagccgttgtaaggcggcagactttgctcatgttaccgatgctattcggaagaacggcaactaagctgccgggtttgaaacacggatgatctcgcggagggtagcatgttgattgtaacgatgacagagcgttgctgcctgtgatccagatcatgaacaataaaactgtctgcttacataaacagtaatacaaggggtgttatgagccatattcaacgggaaacgtcttgctctaggccgcgattaaattccaacatggatgctgatttatatgggtataaatgggctcgcgataatgtcgggcaatcaggtgcgacaatctatcgattgtatgggaagcccgatgcgccagagttgtttctgaaacatggcaaaggtagcgttgccaatgatgttacagatgagatggtcagactaaactggctgacggaatttatgcctcttccgaccatcaagcattttatccgtactcctgatgatgcatggttactcaccactgcgatccccgggaaaacagcattccaggtattagaagaatatcctgattcaggtgaaaatattgttgatgcgctggcagtgttcctgcgccggttgcattcgattcctgtttgtaattgtccttttaacagcgatcgcgtatttcgtctcgctcaggcgcaatcacgaatgaataacggtttggttgatgcgagtgattttgatgacgagcgtaatggctggcctgttgaacaagtctggaaagaaatgcataaacttttgccattctcaccggattcagtcgtcactcatggtgatttctcacttgataaccttatttttgacgaggggaaattaataggttgtattgatgttggacgagtcggaatcgcagaccgataccaggatcttgccatcctatggaactgcctcggtgagttttctccttcattacagaaacggctttttcaaaaatatggtattgataatcctgatatgaataaattgcagtttcatttgatgctcgatgagtttttctaagaattaattcatgatcctgcatgaccaaaatcccttaacgtgagttttcgttccactgagcgtcagaccccgtagaaaagatcaaaggatcttcttgagatcctttttttctgcgcgtaatctgctgcttgcaaacaaaaaaaccaccgctaccagcggtggtttgtttgccggatcaagagctaccaactctttttccgaaggtaactggcttcagcagagcgcagataccaaatactgtccttctagtgtagccgtagttaggccaccacttcaagaactctgtagcaccgcctacatacctcgctctgctaatcctgttaccagtggctgctgccagtggcgataagtcgtgtcttaccgggttggactcaagacgatagttaccggataaggcgcagcggtcgggctgaacggggggttcgtgcacacagcccagcttggagcgaacgacctacaccgaactgagatacctacagcgtgagctatgagaaagcgccacgcttcccgaagggagaaaggcggacaggtatccggtaagcggcagggtcggaacaggagagcgcacgagggagcttccagggggaaacgcctggtatctttatagtcctgtcgggtttcgccacctctgacttgagcgtcgatttttgtgatgctcgtcaggggggcggagcctatggaaaaacgccagcaacgcggcctttttacggttcctggccttttgctggccttttgctcacatgttctttcctgcgttatcccctgattctgtggataaccgtattaccgcctttgagtgagctgataccgctcgccgcagccgaacgaccgagcgcagcgagtcagtgagcgaggaagcggaagagcgcctgatgcggtattttctccttacgcatctgtgcggtatttcacaccgcatatggtgcactctcagtacaatctgctctgatgccgcatagttaagccagtatacactccgctatcgctacgtgactgggtcatggctgcgccccgacacccgccaacacccgctgacgcgccctgacgggcttgtctgctcccggcatccgcttacagacaagctgtgaccgtctccgggagctgcatgtgtcagaggttttcaccgtcatcaccgaaacgcgcgaggcagggtgccttgatgtgggcgccggcggtcgagtggcgacggcgcggcttgtccgcgccctggtagattgcctggccgtaggccagccatttttgagcggccagcggccgcgataggccgacgcgaagcggcggggcgtagggagcgcagcgaccgaagggtaggcgctttttgcagctcttcggctgtgcgctggccagacagttatgcacaggccaggcgggttttaagagttttaataagttttaaagagttttaggcggaaaaatcgccttttttctcttttatatcagtcacttacatgtgtgaccggttcccaatgtacggctttgggttcccaatgtacgggttccggttcccaatgtacggctttgggttcccaatgtacgtgctatccacaggaaagagaccttttcgacctttttcccctgctagggcaatttgccctagcatctgctccgtacattaggaaccggcggatgcttcgccctcgatcaggttgcggtagcgcatgactaggatcgggccagcctgccccgcctcctccttcaaatcgtactccggcaggtcatttgacccgatcagcttgcgcacggtgaaacagaacttcttgaactctccggcgctgccactgcgttcgtagatcgtcttgaacaaccatctggcttctgccttgcctgcggcgcggcgtgccaggcggtagagaaaacggccgatgccgggatcgatcaaaaagtaatcggggtgaaccgtcagcacgtccgggttcttgccttctgtgatctcgcggtacatccaatcagctagctcgatctcgatgtactccggccgcccggtttcgctctttacgatcttgtagcggctaatcaaggcttcaccctcggataccgtcaccaggcggccgttcttggccttcttcgtacgctgcatggcaacgtgcgtggtgtttaaccgaatgcaggtttctaccaggtcgtctttctgctttccgccatcggctcgccggcagaacttgagtacgtccgcaacgtgtggacggaacacgcggccgggcttgtctcccttcccttcccggtatcggttcatggattcggttagatgggaaaccgccatcagtaccaggtcgtaatcccacacactggccatgccggccggccctgcggaaacctctacgtgcccgtctggaagctcgtagcggatcacctcgccagctcgtcggtcacgcttcgacagacggaaaacggccacgtccatgatgctgcgactatcgcgggtgcccacgtcatagagcatcggaacgaaaaaatctggttgctcgtcgcccttgggcggcttcctaatcgacggcgcaccggctgccggcggttgccgggattctttgcggattcgatcagcggccgcttgccacgattcaccggggcgtgcttctgcctcgatgcgttgccgctgggcggcctgcgcggccttcaacttctccaccaggtcatcacccagcgccgcgccgatttgtaccgggccggatggtttgcgaccgctcacgccgattcctcgggcttgggggttccagtgccattgcagggccggcagacaacccagccgcttacgcctggccaaccgcccgttcctccacacatggggcattccacggcgtcggtgcctggttgttcttgattttccatgccgcctcctttagccgctaaaattcatctactcatttattcatttgctcatttactctggtagctgcgcgatgtattcagatagcagctcggtaatggtcttgccttggcgtaccgcgtacatcttcagcttggtgtgatcctccgccggcaactgaaagttgacccgcttcatggctggcgtgtctgccaggctggccaacgttgcagccttgctgctgcgtgcgctcggacggccggcacttagcgtgtttgtgcttttgctcattttctctttacctcattaactcaaatgagttttgatttaatttcagcggccagcgcctggacctcgcgggcagcgtcgccctcgggttctgattcaagaacggttgtgccggcggcggcagtgcctgggtagctcacgcgctgcgtgatacgggactcaagaatgggcagctcgtacccggccagcgcctcggcaacctcaccgccgatgcgcgtgcctttgatcgcccgcgacacgacaaaggccgcttgtagccttccatccgtgacctcaatgcgctgcttaaccagctccaccaggtcggcggtggcccatatgtcgtaagggcttggctgcaccggaatcagcacgaagtcggctgccttgatcgcggacacagccaagtccgccgcctggggcgctccgtcgatcactacgaagtcgcgccggccgatggccttcacgtcgcggtcaatcgtcgggcggtcgatgccgacaacggttagcggttgatcttcccgcacggccgcccaatcgcgggcactgccctggggatcggaatcgactaacagaacatcggccccggcgagttgcagggcgcgggctagatgggttgcgatggtcgtcttgcctgacccgcctttctggttaagtacagcgataaccttcatgcgttccccttgcgtatttgtttatttactcatcgcatcatatacgcagcgaccgcatgacgcaagctgttttactcaaatacacatcacctttttagacggcggcgctcggtttcttcagcggccaagctggccggccaggccgccagcttggcatcagacaaaccggccaggatttcatgcagccgcacggttgagacgtgcgcgggcggctcgaacacgtacccggccgcgatcatctccgcctcgatctcttcggtaatgaaaaacggttcgtcctggccgtcctggtgcggtttcatgcttgttcctcttggcgttcattctcggcggccgccagggcgtcggcctcggtcaatgcgtcctcacggaaggcaccgcgccgcctggcctcggtgggcgtcacttcctcgctgcgctcaagtgcgcggtacagggtcgagcgatgcacgccaagcagtgcagccgcctctttcacggtgcggccttcctggtcgatcagctcgcgggcgtgcgcgatctgtgccggggtgagggtagggcgggggccaaacttcacgcctcgggccttggcggcctcgcgcccgctccgggtgcggtcgatgattagggaacgctcgaactcggcaatgccggcgaacacggtcaacaccatgcggccggccggcgtggtggtgtcggcccacggctctgccaggctacgcaggcccgcgccggcctcctggatgcgctcggcaatgtccagtaggtcgcgggtgctgcgggccaggcggtctagcctggtcactgtcacaacgtcgccagggcgtaggtggtcaagcatcctggccagctccgggcggtcgcgcctggtgccggtgatcttctcggaaaacagcttggtgcagccggccgcgtgcagttcggcccgttggttggtcaagtcctggtcgtcggtgctgacgcgggcatagcccagcaggccagcggcggcgctcttgttcatggcgtaatgtctccggttctagtcgcaagtattctactttatgcgactaaaacacgcgacaagaaaacgccaggaaaagggcagggcggcagcctgtcgcgtaacttaggacttgtgcgacatgtcgttttcagaagacggctgcactgaacgtcagaagccgactgcactatagcagcggaggggttggatcaaagtactttaaagtactttaaagtactttaaagtact</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+</rdf:RDF>

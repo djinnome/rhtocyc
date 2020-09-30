@@ -1,0 +1,171 @@
+ID	ABF_000042
+NAME	BIS_opt_AG
+TYPE	:PLASMID
+CIRCULAR?	Y
+ANNOT-FILE	ABF_000042.gb
+SEQ-FILE	ABF_000042.fsa
+CODON-TABLE	1
+//
+ID	scaffold_1
+NAME	scaffold_1
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_1.pf
+SEQ-FILE	scaffold_1.fna
+CODON-TABLE	1
+//
+ID	scaffold_10
+NAME	scaffold_10
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_10.pf
+SEQ-FILE	scaffold_10.fna
+CODON-TABLE	1
+//
+ID	scaffold_11
+NAME	scaffold_11
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_11.pf
+SEQ-FILE	scaffold_11.fna
+CODON-TABLE	1
+//
+ID	scaffold_12
+NAME	scaffold_12
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_12.pf
+SEQ-FILE	scaffold_12.fna
+CODON-TABLE	1
+//
+ID	scaffold_13
+NAME	scaffold_13
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_13.pf
+SEQ-FILE	scaffold_13.fna
+CODON-TABLE	1
+//
+ID	scaffold_14
+NAME	scaffold_14
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_14.pf
+SEQ-FILE	scaffold_14.fna
+CODON-TABLE	1
+//
+ID	scaffold_15
+NAME	scaffold_15
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_15.pf
+SEQ-FILE	scaffold_15.fna
+CODON-TABLE	1
+//
+ID	scaffold_16
+NAME	scaffold_16
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_16.pf
+SEQ-FILE	scaffold_16.fna
+CODON-TABLE	1
+//
+ID	scaffold_17
+NAME	scaffold_17
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_17.pf
+SEQ-FILE	scaffold_17.fna
+CODON-TABLE	1
+//
+ID	scaffold_18
+NAME	scaffold_18
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_18.pf
+SEQ-FILE	scaffold_18.fna
+CODON-TABLE	1
+//
+ID	scaffold_2
+NAME	scaffold_2
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_2.pf
+SEQ-FILE	scaffold_2.fna
+CODON-TABLE	1
+//
+ID	scaffold_20
+NAME	scaffold_20
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_20.pf
+SEQ-FILE	scaffold_20.fna
+CODON-TABLE	1
+//
+ID	scaffold_25
+NAME	scaffold_25
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_25.pf
+SEQ-FILE	scaffold_25.fna
+CODON-TABLE	1
+//
+ID	scaffold_29
+NAME	scaffold_29
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_29.pf
+SEQ-FILE	scaffold_29.fna
+CODON-TABLE	1
+//
+ID	scaffold_3
+NAME	scaffold_3
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_3.pf
+SEQ-FILE	scaffold_3.fna
+CODON-TABLE	1
+//
+ID	scaffold_4
+NAME	scaffold_4
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_4.pf
+SEQ-FILE	scaffold_4.fna
+CODON-TABLE	1
+//
+ID	scaffold_5
+NAME	scaffold_5
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_5.pf
+SEQ-FILE	scaffold_5.fna
+CODON-TABLE	1
+//
+ID	scaffold_6
+NAME	scaffold_6
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_6.pf
+SEQ-FILE	scaffold_6.fna
+CODON-TABLE	1
+//
+ID	scaffold_7
+NAME	scaffold_7
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_7.pf
+SEQ-FILE	scaffold_7.fna
+CODON-TABLE	1
+//
+ID	scaffold_8
+NAME	scaffold_8
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_8.pf
+SEQ-FILE	scaffold_8.fna
+CODON-TABLE	1
+//
+ID	scaffold_9
+NAME	scaffold_9
+TYPE	:CHRSM
+ANNOT-FILE	scaffold_9.pf
+SEQ-FILE	scaffold_9.fna
+CODON-TABLE	1
+//
+ID	GEN-EL480897
+NAME	pACP-BISopt-Tnos
+TYPE	:PLASMID
+CIRCULAR?	Y
+ANNOT-FILE	ABF_003196.gb
+SEQ-FILE	ABF_003196.fa
+CODON-TABLE	1
+//
+ID	GEN-EL480898
+NAME	2-GPD1-BIS-Tnos 
+TYPE	:PLASMID
+CIRCULAR?	Y
+ANNOT-FILE	ABF_003180.gb
+SEQ-FILE	ABF_003180.fasta
+CODON-TABLE	1
+//
